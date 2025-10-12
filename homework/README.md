@@ -1,1 +1,1 @@
-Папка для домашки
+https://github.com/siigmaman/HomeworkKPO
